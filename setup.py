@@ -5,7 +5,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 with open(os.path.join(here, 'requirements.txt'), 'r') as fp:
     requires = filter(None, fp.readlines())
 
-setup(name='unicore-cms-gem',
+setup(name='unicore-cms-gemrwanda',
       version='0.2.0',
       description='GEM Pyramid Frontend Site for Universal Core ',
       long_description='GEM Pyramid Frontend Site for Universal Core ',
@@ -17,7 +17,7 @@ setup(name='unicore-cms-gem',
       ],
       author='Praekelt Foundation',
       author_email='dev@praekelt.com',
-      url='http://github.com/universalcore/unicore-cms-gem',
+      url='http://github.com/universalcore/unicore-cms-gemrwanda',
       license='BSD',
       keywords='web pyramid pylons',
       packages=find_packages(),
@@ -25,10 +25,10 @@ setup(name='unicore-cms-gem',
       zip_safe=False,
       install_requires=requires,
       tests_require=requires,
-      test_suite="unicorecmsgem",
+      test_suite="unicorecmsgemrwanda",
       entry_points="""\
       [paste.app_factory]
-      main = unicorecmsgem:main
+      main = unicorecmsgemrwanda:main
       """,
       message_extractors={'.': [
       ('**.py', 'python', None),
