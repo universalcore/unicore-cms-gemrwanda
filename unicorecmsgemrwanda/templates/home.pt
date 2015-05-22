@@ -61,5 +61,9 @@
                 <a href="/content/list/${cat.uuid}/"><span i18n:translate="More">More</span> ${cat.title}</a>
             </div>
         </div>
+
+        <div class="declaration">
+            <div class="pagination"><a href="/contact/" class="contact" i18n:translate="Contact">Contact</a> | <a href="/terms/" class="terms" i18n:translate="Terms &amp; Conditions">Terms &amp; Conditions</a> | <a href="/tips/" class="terms" i18n:translate="Tips on Use">Tips on Use</a></div>
+        </div><!--/declaration-->
     </div>
 </div>
