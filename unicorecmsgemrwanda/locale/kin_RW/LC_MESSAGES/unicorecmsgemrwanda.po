@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-05-28 12:33+0200\n"
-"PO-Revision-Date: 2015-05-28 10:25+0000\n"
+"POT-Creation-Date: 2015-10-19 13:06+0200\n"
+"PO-Revision-Date: 2015-10-18 01:37+0000\n"
 "Last-Translator: Indrani <indrani@praekelt.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kin_RW\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1432808722.739624\n"
+"X-POOTLE-MTIME: 1445132243.854688\n"
 
 #. Default: What Is The Girl Effect
 #: unicorecmsgemrwanda/templates/home.pt:20
@@ -92,7 +92,7 @@ msgstr ""
 #: unicorecmsgemrwanda/templates/404.pt:10
 #, fuzzy
 msgid "Home Page"
-msgstr "Irembo"
+msgstr "Ahabanza"
 
 #. Default: Go to the <dynamic element>
 #: unicorecmsgemrwanda/templates/404.pt:9
@@ -114,9 +114,9 @@ msgid "Next"
 msgstr ""
 
 #. Default: Home
-#: unicorecmsgemrwanda/templates/base.pt:33
+#: unicorecmsgemrwanda/templates/base.pt:34
 msgid "Home"
-msgstr "Irembo"
+msgstr "Ahabanza"
 
 #~ msgid "Read It Now."
 #~ msgstr "Yisome nonaha"
