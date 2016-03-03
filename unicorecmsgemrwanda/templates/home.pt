@@ -18,7 +18,7 @@
 
         <div class="what" tal:condition="request.application_url.startswith('http://ninyampinga.com') or request.application_url.startswith('http://www.ninyampinga.com')">
             <div class="listing">
-                Niba uri umukiriya wa Airtel, ushobora gusura uru rubuga ku buntu! Kanda <a href="http://freebasics.com">freebasics.com</a>
+                <div tal:omit-tag="" i18n:translate="If you're an Airtel subscriber you can access this site for free! Go to">If you're an Airtel subscriber you can access this site for free! Go to</div> <a href="http://freebasics.com">freebasics.com</a>
             </div>
         </div>
 

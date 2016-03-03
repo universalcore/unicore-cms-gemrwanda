@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE 1.0\n"
-"POT-Creation-Date: 2015-11-23 11:48+0200\n"
+"POT-Creation-Date: 2016-03-03 17:15+0200\n"
 "PO-Revision-Date: 2015-05-28 12:29+0200\n"
 "Last-Translator: tonym <tonym@tonym-lap>\n"
 "Language-Team: Language eng\n"
@@ -15,43 +15,49 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Lingua 3.10\n"
 
-#. Default: What Is The Girl Effect
-#: unicorecmsgemrwanda/templates/home.pt:20
+#. Default: If you're an Airtel subscriber you can access this site for free!
+#. Go to
+#: unicorecmsgemrwanda/templates/home.pt:21
+msgid "If you're an Airtel subscriber you can access this site for free! Go to"
+msgstr ""
+
+#. Default: What is Ni Nyampinga?
+#: unicorecmsgemrwanda/templates/home.pt:26
 msgid "What Is The Girl Effect"
 msgstr ""
 
-#. Default: Learn more about The Girl Effect
-#: unicorecmsgemrwanda/templates/home.pt:23
+#. Default: Learn about Ni Nyampinga
+#: unicorecmsgemrwanda/templates/home.pt:29
 msgid "Learn more about The Girl Effect"
 msgstr ""
 
 #. Default: And spread the word
-#: unicorecmsgemrwanda/templates/home.pt:24
+#: unicorecmsgemrwanda/templates/home.pt:30
 msgid "And spread the word"
 msgstr ""
 
 #. Default: Latest
-#: unicorecmsgemrwanda/templates/home.pt:30
+#: unicorecmsgemrwanda/templates/home.pt:36
 msgid "Latest"
 msgstr ""
 
 #. Default: More
-#: unicorecmsgemrwanda/templates/home.pt:61
+#: unicorecmsgemrwanda/templates/home.pt:67
 msgid "More"
 msgstr ""
 
 #. Default: Contact
-#: unicorecmsgemrwanda/templates/home.pt:66
+#: unicorecmsgemrwanda/templates/home.pt:72
 msgid "Contact"
 msgstr ""
 
 #. Default: Terms &amp; Conditions
-#: unicorecmsgemrwanda/templates/home.pt:66
+#: unicorecmsgemrwanda/templates/home.pt:72
 msgid "Terms &amp; Conditions"
 msgstr ""
 
 #. Default: Tips on Use
-#: unicorecmsgemrwanda/templates/home.pt:66
+#: unicorecmsgemrwanda/templates/home.pt:72
 msgid "Tips on Use"
 msgstr ""
 

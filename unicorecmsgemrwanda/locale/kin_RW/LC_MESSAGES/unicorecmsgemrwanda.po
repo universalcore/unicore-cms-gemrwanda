@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-23 11:48+0200\n"
+"POT-Creation-Date: 2016-03-03 17:15+0200\n"
 "PO-Revision-Date: 2015-11-19 07:56+0000\n"
 "Last-Translator: Indrani <indrani@praekelt.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,43 +17,50 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1447919818.493589\n"
 
-#. Default: What Is The Girl Effect
-#: unicorecmsgemrwanda/templates/home.pt:20
+#. Default: If you're an Airtel subscriber you can access this site for free!
+#. Go to
+#: unicorecmsgemrwanda/templates/home.pt:21
+msgid "If you're an Airtel subscriber you can access this site for free! Go to"
+msgstr ""
+"Niba uri umukiriya wa Airtel, ushobora gusura uru rubuga ku buntu! Kanda"
+
+#. Default: What is Ni Nyampinga?
+#: unicorecmsgemrwanda/templates/home.pt:26
 msgid "What Is The Girl Effect"
 msgstr "Ni Nyampinga ni iki?"
 
-#. Default: Learn more about The Girl Effect
-#: unicorecmsgemrwanda/templates/home.pt:23
+#. Default: Learn about Ni Nyampinga
+#: unicorecmsgemrwanda/templates/home.pt:29
 msgid "Learn more about The Girl Effect"
 msgstr "Menya byinshi kuri Ni Nyampinga"
 
 #. Default: And spread the word
-#: unicorecmsgemrwanda/templates/home.pt:24
+#: unicorecmsgemrwanda/templates/home.pt:30
 msgid "And spread the word"
 msgstr "Uyisangize n'abandi bakobwa"
 
 #. Default: Latest
-#: unicorecmsgemrwanda/templates/home.pt:30
+#: unicorecmsgemrwanda/templates/home.pt:36
 msgid "Latest"
 msgstr "Ibishya"
 
 #. Default: More
-#: unicorecmsgemrwanda/templates/home.pt:61
+#: unicorecmsgemrwanda/templates/home.pt:67
 msgid "More"
 msgstr "Ibindi"
 
 #. Default: Contact
-#: unicorecmsgemrwanda/templates/home.pt:66
+#: unicorecmsgemrwanda/templates/home.pt:72
 msgid "Contact"
 msgstr "Aderesi "
 
 #. Default: Terms &amp; Conditions
-#: unicorecmsgemrwanda/templates/home.pt:66
+#: unicorecmsgemrwanda/templates/home.pt:72
 msgid "Terms &amp; Conditions"
 msgstr "Umungo bwite mu by'ubwenge"
 
 #. Default: Tips on Use
-#: unicorecmsgemrwanda/templates/home.pt:66
+#: unicorecmsgemrwanda/templates/home.pt:72
 msgid "Tips on Use"
 msgstr "Inama zikoreshwa"
 
@@ -90,7 +97,6 @@ msgstr ""
 #. Default: Home Page
 #. Used in sentence: "Go to the <dynamic element>"
 #: unicorecmsgemrwanda/templates/404.pt:10
-#, fuzzy
 msgid "Home Page"
 msgstr "Ahabanza"
 
